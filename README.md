@@ -66,4 +66,4 @@ BOW-LINEは日本全国、更には海外の弓道家を繋ぎ、弓道家同士
 [figma](https://www.figma.com/file/LJn6BPC4dfRJBJ2angtYtd/bow-line?type=design&node-id=0%3A1&mode=design&t=Ecda3JniixGUjqr3-1)
 
 ## ER図
-![2023-08-24_00h55_39](https://github.com/SunagaItsuki/bow-line/assets/62061608/d6a41e80-28d5-4280-b5fb-5710af809658)
+![2023-08-25_00h02_58](https://github.com/SunagaItsuki/bow-line/assets/62061608/96fa23da-03bc-4e03-8b2f-9e92adef2fd7)
